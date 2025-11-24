@@ -1,0 +1,21 @@
+# Data Handling and Processing
+pandas
+numpy
+rapidfuzz
+
+# Text/Document Parsing
+python-docx
+PyPDF2
+
+# Natural Language Processing (NLP)
+spacy
+nltk
+
+# Optional OCR (if dealing with image-based resumes)
+pytesseract
+
+# Deployment/App Interface
+streamlit
+
+# Development Tools
+scikit-learn
