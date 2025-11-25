@@ -1,0 +1,94 @@
+{
+  "Software Developer / Engineer": {
+    "required_skills": ["Java", "Python", "C++", "Object-Oriented Programming (OOP)", "Data Structures & Algorithms", "Git/GitHub", "SQL", "Unit Testing (JUnit/PyTest)", "System Design", "REST APIs"],
+    "suggested_projects": ["Library Management System", "Employee Payroll System", "CLI Tool for File Management", "Multi-threaded Chat Server", "Inventory Management App"]
+  },
+  "Full-Stack Developer": {
+    "required_skills": ["HTML5", "CSS3", "JavaScript (ES6+)", "React.js", "Node.js", "Express.js", "MongoDB", "SQL (PostgreSQL/MySQL)", "RESTful APIs", "Version Control (Git)", "Docker"],
+    "suggested_projects": ["E-commerce Platform with Payment Gateway", "Social Media Dashboard", "Real-time Collaboration Tool", "Blog CMS with Admin Panel", "Task Management SaaS"]
+  },
+  "Web Developer": {
+    "required_skills": ["HTML", "CSS", "JavaScript", "Responsive Design", "Bootstrap/Tailwind CSS", "Basic SEO", "Browser Developer Tools", "Git", "Basic PHP/Python", "Web Accessibility (WCAG)"],
+    "suggested_projects": ["Responsive Personal Portfolio", "Small Business Landing Page", "Weather Forecasting Web App", "Restaurant Menu with Filtering", "Parallax Scrolling Website"]
+  },
+  "Mobile App Developer": {
+    "required_skills": ["Swift (iOS)", "Kotlin (Android)", "React Native/Flutter", "Firebase", "REST APIs", "Mobile UI/UX Standards", "State Management", "Push Notifications", "Git"],
+    "suggested_projects": ["Fitness Tracker App", "Food Delivery UI Clone", "Expense Manager with Charts", "Chat Application with Firebase", "News Aggregator App"]
+  },
+  "Game Developer": {
+    "required_skills": ["C++", "C#", "Unity Engine", "Unreal Engine", "3D Mathematics (Linear Algebra)", "Physics Engines", "Game Design Patterns", "OpenGL/DirectX", "Animation Logic"],
+    "suggested_projects": ["2D Platformer Game", "3D First Person Shooter Prototype", "Multiplayer Card Game", "Endless Runner Mobile Game", "VR Environment Walkthrough"]
+  },
+  "Blockchain Developer": {
+    "required_skills": ["Solidity", "Smart Contracts", "Ethereum", "Web3.js/Ethers.js", "Cryptography", "Rust/Go", "Truffle/Hardhat", "Distributed Ledger Technology", "IPFS"],
+    "suggested_projects": ["Decentralized Voting System", "NFT Marketplace", "Crowdfunding Smart Contract", "DeFi Token Swap Application", "Crypto Wallet Browser Extension"]
+  },
+  "Data Scientist": {
+    "required_skills": ["Python", "R", "SQL", "Pandas/NumPy", "Scikit-Learn", "TensorFlow/PyTorch", "Statistics & Probability", "Data Visualization (Matplotlib/Seaborn)", "Jupyter Notebooks"],
+    "suggested_projects": ["Customer Churn Prediction Model", "Movie Recommendation System", "Stock Price Forecasting", "Sentiment Analysis on Twitter Data", "Credit Card Fraud Detection"]
+  },
+  "Data Analyst": {
+    "required_skills": ["SQL", "Microsoft Excel (Advanced)", "Tableau", "Power BI", "Python (Basic)", "Data Cleaning", "Statistical Analysis", "Data Storytelling", "A/B Testing"],
+    "suggested_projects": ["Sales Performance Dashboard", "HR Analytics Report", "Marketing Campaign Analysis", "COVID-19 Data Visualization", "Ecommerce User Behavior Analysis"]
+  },
+  "Machine Learning Engineer": {
+    "required_skills": ["Python", "TensorFlow", "PyTorch", "Scikit-learn", "MLOps", "Deep Learning", "Natural Language Processing (NLP)", "Computer Vision", "Model Deployment (Flask/FastAPI)"],
+    "suggested_projects": ["Image Classification (CNN)", "Chatbot using Transformers", "Predictive Maintenance System", "Face Recognition System", "Voice-to-Text Converter"]
+  },
+  "Data Engineer / Big Data Engineer": {
+    "required_skills": ["Python", "Java/Scala", "SQL", "Apache Spark", "Hadoop Ecosystem", "Kafka", "Airflow", "ETL Pipelines", "AWS/Azure Data Services", "NoSQL (Cassandra/HBase)"],
+    "suggested_projects": ["Real-time Stock Data Pipeline", "Data Warehouse Design for Retail", "Log Analysis System using Spark", "Automated ETL Workflow with Airflow", "Twitter Stream Processing"]
+  },
+  "AI and Machine Learning Engineer": {
+    "required_skills": ["Python", "Generative AI (LLMs)", "Reinforcement Learning", "Neural Networks", "Cloud AI (Vertex AI/SageMaker)", "LangChain", "Vector Databases", "Model Fine-Tuning"],
+    "suggested_projects": ["RAG (Retrieval-Augmented Generation) App", "Autonomous Car Simulation", "Generative Art Creator (GANs)", "Personal AI Assistant", "Medical Diagnosis Support System"]
+  },
+  "Cloud Solutions Architect": {
+    "required_skills": ["AWS/Azure/GCP", "Kubernetes", "Docker", "Terraform (IaC)", "Networking (VPC/DNS)", "Cloud Security", "Microservices Architecture", "Serverless Computing", "System Design"],
+    "suggested_projects": ["Serverless Microservices Backend", "Multi-Cloud Disaster Recovery Plan", "Scalable Web App Architecture", "Cloud Infrastructure Automation", "Containerized Application Deployment"]
+  },
+  "Database Administrator": {
+    "required_skills": ["SQL", "Oracle", "MySQL", "PostgreSQL", "Database Tuning & Optimization", "Backup & Recovery", "Database Security", "Shell Scripting", "NoSQL"],
+    "suggested_projects": ["Database Migration Strategy Plan", "High-Availability Cluster Setup", "Slow Query Analysis & Optimization", "Automated Backup System", "Role-Based Access Control Implementation"]
+  },
+  "DevOps Engineer": {
+    "required_skills": ["Linux Administration", "Docker", "Kubernetes", "CI/CD (Jenkins/GitLab/CircleCI)", "Terraform/Ansible", "AWS/Azure", "Monitoring (Prometheus/Grafana)", "Bash/Python Scripting"],
+    "suggested_projects": ["End-to-End CI/CD Pipeline", "Kubernetes Cluster Auto-scaling", "Infrastructure as Code Provisioning", "Automated Testing Environment", "Log Aggregation System (ELK Stack)"]
+  },
+  "Cybersecurity Analyst": {
+    "required_skills": ["Network Security", "Linux", "Python for Security", "Penetration Testing", "SIEM Tools (Splunk)", "Firewalls/IDS/IPS", "Cryptography", "OWASP Top 10", "Vulnerability Assessment"],
+    "suggested_projects": ["Network Packet Analysis", "Keylogger/Malware Analysis (Sandboxed)", "Phishing Detection Tool", "Vulnerability Scan Report", "Secure Password Manager"]
+  },
+  "Computer Network Architect": {
+    "required_skills": ["TCP/IP", "Routing & Switching", "Cisco IOS", "Network Design", "VPNs", "Load Balancing", "Firewalls", "Cloud Networking", "Network Protocols (BGP/OSPF)"],
+    "suggested_projects": ["Enterprise Network Topology Design", "Secure VPN Implementation", "WAN Optimization Project", "Data Center Network Plan", "IoT Network Segmentation"]
+  },
+  "Computer Hardware Engineer": {
+    "required_skills": ["Verilog/VHDL", "FPGA Programming", "PCB Design", "Circuit Analysis", "Microcontrollers (ARM/AVR)", "C/Assembly", "Digital Logic Design", "Soldering", "Embedded Systems"],
+    "suggested_projects": ["FPGA Traffic Light Controller", "Custom IoT PCB Board", "Smart Home Controller", "Arithmetic Logic Unit (ALU) Design", "Robotic Arm Control Circuit"]
+  },
+  "Computer Systems Analyst": {
+    "required_skills": ["System Analysis", "Business Requirements Gathering", "UML Modeling", "SQL", "Agile Methodology", "Process Mapping", "Software Development Life Cycle (SDLC)", "Technical Documentation"],
+    "suggested_projects": ["Legacy System Migration Plan", "Business Process Optimization", "Requirements Specification Document", "ERP System Analysis", "Workflow Automation Design"]
+  },
+  "UI/UX Designer": {
+    "required_skills": ["Figma", "Adobe XD", "Sketch", "Prototyping", "Wireframing", "User Research", "Interaction Design", "HTML/CSS (Basic)", "Usability Testing", "Information Architecture"],
+    "suggested_projects": ["Mobile App High-Fidelity Prototype", "Website Redesign Case Study", "Design System & Component Library", "User Journey Map", "E-commerce Checkout Flow Design"]
+  },
+  "IoT Specialist": {
+    "required_skills": ["C/C++", "Python", "Raspberry Pi", "Arduino", "MQTT", "Sensors & Actuators", "Wireless Protocols (Zigbee/BLE/LoRa)", "Cloud IoT Platforms", "Embedded Linux"],
+    "suggested_projects": ["Smart Agriculture Monitor", "Home Automation Hub", "Industrial Equipment Tracker", "Weather Station with Cloud Logging", "Wearable Health Monitor"]
+  },
+  "Project Manager": {
+    "required_skills": ["Agile/Scrum", "Jira/Confluence", "Risk Management", "Stakeholder Communication", "Budgeting", "Leadership", "Kanban", "SDLC", "Time Management"],
+    "suggested_projects": ["Software Product Launch Roadmap", "Agile Sprint Planning Simulation", "Risk Assessment Matrix", "Resource Allocation Plan", "Project Post-Mortem Report"]
+  },
+  "Technical Writer / Content Developer": {
+    "required_skills": ["Technical Writing", "API Documentation", "Markdown", "XML/DITA", "English Grammar", "Content Strategy", "SEO Principles", "Version Control (Git)", "Documentation Tools"],
+    "suggested_projects": ["API Reference Guide", "User Manual for Mobile App", "Technical Blog Series", "Knowledge Base Setup", "Software Release Notes"]
+  },
+  "Academician or Researcher": {
+    "required_skills": ["Research Methodology", "Academic Writing", "LaTeX", "Data Analysis", "Public Speaking", "Grant Writing", "Curriculum Development", "Peer Review", "Domain Expertise"],
+    "suggested_projects": ["Research Paper Publication", "Conference Presentation", "Literature Review Article", "Curriculum Syllabus Design", "Grant Proposal Draft"]
+  }
+}
