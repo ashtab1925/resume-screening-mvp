@@ -5,7 +5,7 @@
 This project is an End-to-End Machine Learning Web Application that helps job seekers evaluate their resumes against specific job descriptions. It uses **Natural Language Processing (NLP)** techniques to parse resumes, match keywords, and provide actionable feedback on missing skills and recommended projects.
 
 ## 🚀 Live Demo
-**[Click Here to Try the App](https://your-streamlit-app-link-here.streamlit.app/)** *(Replace this link after you deploy on Streamlit Cloud)*
+**[Click Here to Try the App](https://resume-screening-with-ashtab.streamlit.app/)**
 
 ---
 
